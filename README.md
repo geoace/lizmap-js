@@ -7,7 +7,11 @@ This is a series of custom javascript operations created to extend the functiona
 This tool will open an attribute (i.e., edit) form by default rather than the standard popup. Note that all users who access the map will need to have edit access to see the full functionality. One way around this is to use the atlas tool for your popup. The edit tool will simultaneously open while the atlas panel will remain open as well.
 
 
-https://github.com/geoace/lizmap-js/assets/64020020/e6b8b720-f711-4236-b907-b587f2996d46
+
+https://github.com/geoace/lizmap-js/assets/64020020/f5c46bcd-001d-4dba-8da0-71517c58fda8
+
+
+
 
 ## google_street_view
 
@@ -15,5 +19,9 @@ Taken from the main lizmap javascript repository (https://github.com/3liz/lizmap
 
 
 
-https://github.com/geoace/lizmap-js/assets/64020020/b22c42aa-e21e-44d3-910a-43434aac3e06
+
+https://github.com/geoace/lizmap-js/assets/64020020/0bb08b85-cc76-4810-9af0-51fcacb6589d
+
+
+
 
