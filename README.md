@@ -1,6 +1,13 @@
 # lizmap-js
 
-This is a series of custom javascript operations created to extend the functionality of Lizmap Web Client. For descriptions of each function, see below.
+This is a series of custom javascript operations created to extend the functionality of Lizmap Web Client. 
+
+#### For the 3liz-endorsed javascript repository, go here: https://github.com/3liz/lizmap-javascript-scripts
+
+#### For documentation on how to implement javascript on your projects, click here (note you may need to select the most recent Lizmap version): https://docs.lizmap.com/3.6/en/publish/customization/javascript.html
+
+
+For descriptions of each function, see below.
 
 ## edit_default.js
 
